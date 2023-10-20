@@ -1,5 +1,4 @@
 package com.example.homework2_2;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,5 +8,4 @@ public class Homework22Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Homework22Application.class, args);
 	}
-
 }
